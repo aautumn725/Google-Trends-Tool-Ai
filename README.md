@@ -1,4 +1,4 @@
-# Google-Trends-Tool-Ai
+# Google-Trends-Tool-Ai(google trends dashboard)
 
 Visit [keywordtrendsai.com](http://keywordtrendsai.com)  
 
