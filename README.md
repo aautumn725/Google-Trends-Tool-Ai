@@ -1,8 +1,8 @@
 # Google-Trends-Tool-Ai
 
 An AI-powered keyword trends analytics platform based on Google Trends, designed for content creators, marketers, and researchers.
-![Homepage Screenshot](Google-Trends-Tool-Ai/Snipaste_2025-07-10_22-52-13.png)
-![Homepage Screenshot](Google-Trends-Tool-Ai/Snipaste_2025-07-10_22-52-59.png)
+![Dashboard Overview](./Snipaste_2025-07-10_22-52-13.png)
+![Keyword Trend Chart](./Snipaste_2025-07-10_22-52-59.png)
 
 ## 🔍 Key Features
 
